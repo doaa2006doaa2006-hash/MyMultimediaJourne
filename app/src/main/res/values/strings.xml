@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyMultimediaJourne</string>
+    <string name="profile_title">My Multimedia Journey</string>
+
+    <string name="profile_paragraph_one">My name is Reham, and I am 21 years old. I study Web and Mobile Multimedia at Al-Aqsa University. I am passionate about creativity, technology, and creating beautiful digital experiences.</string>
+
+    <string name="profile_paragraph_two">I enjoy graphic design, color coordination, and creating engaging digital content. I am always eager to learn new skills and improve my abilities. My goal is to become a professional multimedia designer and create innovative websites and mobile applications.</string>
+</resources>

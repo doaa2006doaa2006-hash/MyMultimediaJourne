@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="profile_background">#FFF4EC</color>
+    <color name="profile_title_color">#211711</color>
+    <color name="profile_text_color">#211711</color>
+</resources>
